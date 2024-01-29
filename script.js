@@ -48,3 +48,27 @@ button.addEventListener('click', () => {
     colorCode.innerText = colors[random].colorCode;
     document.body.style.background = `${colors[random].colorCode}`
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
